@@ -1,4 +1,4 @@
-# Nuxt/Ionic Demo (WIP)
+# Nuxt/Ionic Demo
 
 > Built with Nuxt/Ionic for NuxtNation 2022
 
@@ -25,7 +25,7 @@ Check out the [Nuxt/Ionic Playground](https://stackblitz.com/github/nuxt-modules
 
 ### Native Builds
 
-> Xcode (for iOS) and Android Studio/Android SDK (Android) are required to open or run project. See [Capacitor Environment Setup docs for more details](https://capacitorjs.com/docs/getting-started/environment-setup). If this is your first time running a mobile app with Android Studio, additional configuration may be required to use `npx cap run android`.
+> Xcode (for iOS) and Android Studio/Android SDK (Android) are required to open or run the project. See [Capacitor Environment Setup docs for more details](https://capacitorjs.com/docs/getting-started/environment-setup). If this is your first time running a mobile app with Android Studio, additional configuration may be required to use `npx cap run android`.
 
 - Create web build with `npx nuxi generate`
 - Sync to Capacitor with `npx cap sync`
