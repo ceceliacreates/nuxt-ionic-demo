@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "4.4.0",
+    "@nuxtjs/ionic": "^0.8.0",
+    "nuxt": "3.0.0-rc.12"
+  },
+  "dependencies": {
+    "@capacitor/android": "4.4.0",
+    "@capacitor/app": "4.1.0",
+    "@capacitor/core": "4.4.0",
+    "@capacitor/haptics": "4.0.1",
+    "@capacitor/ios": "4.4.0",
+    "@capacitor/keyboard": "4.0.1",
+    "@capacitor/status-bar": "4.0.1"
+  }
+}
