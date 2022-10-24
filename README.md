@@ -23,7 +23,7 @@ Check out the [Nuxt/Ionic Playground](https://stackblitz.com/github/nuxt-modules
 - Install dependencies using `npm install`
 - Start development server with `npx nuxi dev`
 
-### Native Builds
+### Running on a mobile device
 
 > Xcode (for iOS) and Android Studio/Android SDK (Android) are required to open or run the project. See [Capacitor Environment Setup docs for more details](https://capacitorjs.com/docs/getting-started/environment-setup). If this is your first time running a mobile app with Android Studio, additional configuration may be required to use `npx cap run android`.
 
