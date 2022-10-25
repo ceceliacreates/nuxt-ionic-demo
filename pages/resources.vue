@@ -61,7 +61,7 @@
             >
           </ion-item>
         </ion-list>
-        <ion-button href="/">Back</ion-button>
+        <ion-button router-link="/">Back</ion-button>
       </div>
     </ion-content>
   </ion-page>

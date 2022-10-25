@@ -15,7 +15,7 @@
       <div id="container">
         <h1>Hello Nuxt Nation 👋!</h1>
 
-        <ion-button href="/resources">Get Started</ion-button>
+        <ion-button router-link="/resources">Get Started</ion-button>
       </div>
     </ion-content>
   </ion-page>
