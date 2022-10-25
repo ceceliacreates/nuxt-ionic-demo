@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "appflow:build": "npm run generate",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",

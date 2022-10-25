@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
   "appName": "nuxt-ionic-project",
-  "webDir": ".output",
+  "webDir": "dist",
   "bundledWebRuntime": false
 }
