@@ -9,7 +9,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "ionic:build": "npm run build",
+    "ionic:build": "npm run generate",
     "ionic:serve": "npm run dev"
   },
   "devDependencies": {
