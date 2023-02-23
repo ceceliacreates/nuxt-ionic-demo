@@ -1,4 +1,6 @@
 {
+  "name": "nuxt-ionic-demo",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "appflow:build": "npm run generate",
@@ -6,12 +8,14 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "ionic:build": "npm run build",
+    "ionic:serve": "npm run dev"
   },
   "devDependencies": {
     "@capacitor/cli": "4.4.0",
-    "@nuxtjs/ionic": "^0.8.0",
-    "nuxt": "3.0.0-rc.12"
+    "@nuxtjs/ionic": "^0.8.1",
+    "nuxt": "^3.2.0"
   },
   "dependencies": {
     "@capacitor/android": "4.4.0",
@@ -20,6 +24,7 @@
     "@capacitor/haptics": "4.0.1",
     "@capacitor/ios": "4.4.0",
     "@capacitor/keyboard": "4.0.1",
-    "@capacitor/status-bar": "4.0.1"
+    "@capacitor/status-bar": "4.0.1",
+    "cordova-plugin-ionic": "5.5.3"
   }
 }
