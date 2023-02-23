@@ -13,7 +13,7 @@
         </ion-toolbar>
       </ion-header>
       <div id="container">
-        <h1>Hello Nuxt Nation 👋!</h1>
+        <h1>Hola Ionic Madrid 👋!</h1>
 
         <ion-button router-link="/resources">Get Started</ion-button>
       </div>
