@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "4.4.0",
-    "@nuxtjs/ionic": "^0.8.1",
+    "@nuxtjs/ionic": "^0.10.0",
     "nuxt": "^3.2.0"
   },
   "dependencies": {
