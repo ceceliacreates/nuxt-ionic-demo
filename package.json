@@ -15,7 +15,7 @@
   "devDependencies": {
     "@capacitor/cli": "^5.0.0",
     "@nuxtjs/ionic": "^0.10.0",
-    "nuxt": "^3.2.0"
+    "nuxt": "^3.5.1"
   },
   "dependencies": {
     "@capacitor/android": "^5.0.0",
