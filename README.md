@@ -1,9 +1,8 @@
 # Nuxt/Ionic Demo
 
-> Built with Nuxt/Ionic for NuxtNation 2022
+> Built with Nuxt/Ionic
 
 - [Nuxt/Ionic](https://ionic.nuxtjs.org/)
-- [Register for NuxtNation](https://nuxtnation.com/)
 
 <img src="/androidscreenshot.png" width=300>
 
